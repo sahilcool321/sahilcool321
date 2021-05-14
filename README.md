@@ -11,7 +11,6 @@
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - ✍️ &nbsp;First solve the problem, then write the code ❤️
 - 🌱 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
